@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.taken-day {
+  background: #22c55e !important; 
+  color: white !important;
+}
+
+.today-day {
+  background: #fde047 !important; 
+  color: black !important;
+}
